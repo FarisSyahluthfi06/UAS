@@ -14,7 +14,7 @@
 * Oke kita mulai saja. Pertama kita buat file packagenya dulu. disini saya membuat file packagenya di aplikasi Pycharm. <br>
 ![Package](foto/Package.png) <br>
 
-* Langkah selanjutnya kita buat coding di file Model ->> daftar_nilai.py. Adapaun codingnya ada di bawah.
+* Langkah selanjutnya kita buat coding di file Model ->> daftar_nilai.py. Adapaun codingnya ada di bawah. <br>
 # Koding
 ```
 from data import data
@@ -73,6 +73,8 @@ while True:
         print("Keluar")
         break
 
-    ``` 
-    
-    <br>
+```
+# Penjelasan:
+Dikoding situ sudah ada menu tambah_data, ubah_data, hapus_data, dan
+cari_data. <br>
+
