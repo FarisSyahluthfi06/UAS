@@ -76,7 +76,11 @@ while True:
 ```
 # Penjelasan:
 Dikoding situ kita sudah ada menu tambah_data, ubah_data, hapus_data, dan
-cari_data. <br>
+cari_data. Adapun Output dari koding diatas: <br>
+# Output
+![Gambar1](foto/Gambar1.png)
+
+
 
 * Selanjutnya kita buka file view -->> view_nilai.py. Adapun codingnya: <br>
 ```
