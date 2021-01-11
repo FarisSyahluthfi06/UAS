@@ -75,6 +75,29 @@ while True:
 
 ```
 # Penjelasan:
-Dikoding situ sudah ada menu tambah_data, ubah_data, hapus_data, dan
+Dikoding situ kita sudah ada menu tambah_data, ubah_data, hapus_data, dan
 cari_data. <br>
 
+* Selanjutnya kita buka file view -->> view_nilai.py. Adapun codingnya: <br>
+```
+while True:
+    print("")
+    c =input("(L)lihat, : ")
+
+        print("=======Daftar Nilai Mahasiswa=======")
+        print("================================================================================================")
+        print(" |NO   |     NAMA      |    NIM    |     TUGAS    |     UTS     |       UAS    |    AKHIR     | ")
+        print("================================================================================================")
+        i = 0
+        for x in data.items():
+            i += 1
+            print(
+                " | {6:2}  |  {0:12s} | {1:9s} | {2:11}  | {3:11} | {4:11}  |  {5:11} |".format(x[0], x[1][0], x[1][1],
+                                                                                                x[1][2], x[1][3],
+                                                                                                x[1][4], i))
+            print("============================================================================================")
+
+```
+
+# Penjelasan:
+Dikoding situ kita sudah membuat cetak_daftar_nilai, cetak_hasil_pencarian. Fungsi dari menu tersebut yaitu kita bisa memasukan nilai dan kita bisa melihat/Mencari nilai yang sudah kita input. <br>
