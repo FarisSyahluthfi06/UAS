@@ -2,7 +2,7 @@ from data import data
 
 
 
-print("PROGRAM MENAMPILKAN DAFTAR NILAI MAHASISWA")
+print("Aplikasi Penilaian Mahasiswa")
 while True:
     print("")
     c =input("(L)lihat, (T)ambah, (U)bah, (H)apus, (K)eluar : ")
