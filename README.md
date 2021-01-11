@@ -6,12 +6,12 @@
 
 ## UAS PEMROGRAMAN  <br>
 
-* Disini saya akan menjelaskan tugas UAS. Adapun soal yang diberikan oleh dosen ada digambar bawah ini:
+* Disini saya akan menjelaskan tugas UAS. Adapun soal yang diberikan oleh dosen ada digambar bawah ini: <br>
 ![Soal UAS PEMROGRAMAN](foto/SoalUAS.png) <br>
 
 ## Langkah - Langkah
 
-* Oke kita mulai saja. Pertama kita buat file packagenya dulu. disini saya membuat file packagenya di aplikasi Pycharm.
+* Oke kita mulai saja. Pertama kita buat file packagenya dulu. disini saya membuat file packagenya di aplikasi Pycharm. <br>
 ![Package](foto/Package.png) <br>
 
 * Langkah selanjutnya kita buat coding di file Model ->> daftar_nilai.py. Adapaun codingnya ada di bawah.
@@ -73,4 +73,6 @@ while True:
         print("Keluar")
         break
 
-    ```
+    ``` 
+    
+    <br>
